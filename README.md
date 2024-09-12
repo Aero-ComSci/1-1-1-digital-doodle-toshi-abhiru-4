@@ -2,12 +2,12 @@
 # 1.1.1-DD-Template
 
 ## Include the following in this read me
-
 1. Who is this app for?
-1. What does it do, how does it work
-1. Add screenshots of the design view or actual app
-1. Blocks that you showcase your individual skill
-1. The images you created
+2. What does it do, how does it work
+
+1. This app is for people who want to edit their drawings/photos, but are not willing to pay money for a editor.
+   
+2. It takes pictures, and allows you to edit. If you click the color button, the color of the pen changes. Take photo allows you to take a photo. The slider changes the thickness of the pen. The text button and text box allows to add text to the photo, type the text first, and then press the text button. Dark mode changes the UI.
 
    Add the MIT App Inventor File to the Repository
 
